@@ -88,6 +88,14 @@
                 </p>
               </a>
             </li>
+            <li class="nav-item">
+              <a href="homepage-manage-list" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>
+                  Homepage Management
+                </p>
+              </a>
+            </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
